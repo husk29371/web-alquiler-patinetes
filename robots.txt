@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://husk29371.github.io/web-alquiler-patinetes/
